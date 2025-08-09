@@ -1,0 +1,3 @@
+[submodule "framebuffer/stb"]
+	path = framebuffer/stb
+	url = https://github.com/nothings/stb
